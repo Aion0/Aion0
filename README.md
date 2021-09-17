@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aion0
+- 👋 Hi, I’m @Aion__
 - 👀 I’m interested in music, maths and coding  
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on python based projects
